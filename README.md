@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=B08D57&center=true&vCenter=true&width=700&lines=Victorian+Era+Website;Educational+Multi-Page+Project;Built+with+HTML+%26+CSS">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3000&pause=1000&color=8A5C2E&center=true&vCenter=true&width=800&lines=Victorian+Era+Website;Inspired+by+19th+Century+Britain;Designed+with+HTML+and+CSS">
 </p>
 
 <p align="center">
