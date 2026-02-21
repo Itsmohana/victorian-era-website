@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Poppins';
+}
+
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+img{
+  width: 100%;
+}
+
+
+
+
+.section-content-header{
+  min-height: calc(100vh - 100px) ;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 2000px;
+  min-width: auto;
+  gap: 4rem;
+}
+
+
+.right-content-header{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin: 3rem;
+  place-content: center;
+  position: relative;
+}
+
+
+.left-content-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 4.5rem;
+  transform: translateY(-70px);
+}
+
+.left-content-header h1{
+  font-size: 3rem;
+  width: 100%;
+  line-height: 3.5rem;
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+
+
+
+.left-content-header h1 span:nth-child(1){
+  font-weight: 400;
+}
+.left-content-header h1 span:nth-child(2){
+  font-weight: 700;
+  color: #0f1e6a;
+}
+.left-content-header h1 span:nth-child(3){
+  font-weight: 700;
+  color: #5C3317;
+}
+.left-content-header p{
+  margin: 0.5rem 0 1.5rem 0;
+  color: #333333;
+  margin-left: 2rem;
+}
+
+
+
+/*
+.right-content-header img{
+display: flex;
+}
+*/
+
+
+.right-content-header img{
+  max-width: 300px;
+  border-radius: 12px;
+}
+.right-content-header img:nth-child(1){
+  transform: translateY(60px);
+}
+
+.right-content-header img:nth-child(2){
+  transform: translateY(-40px);
+}
+
+
+
+.right-content-header  .content-img-text{
+  background: linear-gradient(to right , rgb(231, 210, 191),rgba(62, 24, 4, 0.72));
+  backdrop-filter: blur(2px);
+  color: #fff;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  max-width: 310px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-35%, -50%);
+  border-radius: 10px;
+
+}
+.right-content-header  .content-img-text ul li{
+  margin-bottom: 0.5rem;
+  list-style: disc;
+}
+
+
+
+.content-img-text ul li{
+  color: black;
+}
+
+
+
+
+
+@media screen and (max-width:999px) {
+  .section-content-header{
+    grid-template-columns: repeat(1,1fr);
+  }
+  .left-content-header{
+    text-align: center;
+  }
+  .left-content-header form{
+    justify-content: center;
+  }
+  .right-content-header img:nth-child(2) {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+}
+}
+
+
+
+

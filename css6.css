@@ -1,0 +1,316 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Arial, Helvetica;
+	/*background color: #f7f8fd;*/
+	background-image: linear-gradient(to right,rgba(75, 59, 50, 0.5) 25%,rgba(128, 64, 18, 0.08));
+}
+
+
+.txt-1{
+	margin-top: 30px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+.txt-1 img{
+	width: 15%;
+	height: 15%;
+	float: right;
+	margin: auto;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	margin-top: 2.2rem;
+	margin-bottom: 6rem;
+	border-radius: 1rem;
+}
+
+.txt-2{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-3{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.txt-3 h2{
+	text-align: left;
+	margin-bottom: 0.4rem;
+}
+.txt-3 img{
+	width: 14%;
+	height: 14%;
+	float: left;
+	margin: auto;
+	margin-left: 0.3rem;
+	margin-right: 1.3rem;
+	margin-top: 3rem;
+	margin-bottom: 4rem;
+	border-radius: 1rem;
+}
+
+
+.txt-4{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+.txt-4 img{
+	width: 10%;
+	height: 10%;
+	float: right;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-top: -0.7rem;
+	margin-bottom: 0.4rem;
+	border-radius: 1rem;
+}
+
+.txt-5{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.txt-6 h2{
+	text-align: left;
+	margin-bottom: 0.4rem;
+}
+.txt-6{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-7{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.txt-7 img{
+	width: 13%;
+	height: 13%;
+	float: right;
+	margin: auto;
+	margin-left: 1rem;
+	margin-right: 2rem;
+	margin-top: 0.2rem;
+	margin-bottom: 0.6rem;
+	border-radius: 1rem;
+}
+
+
+.txt-8{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-9{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+
+.txt-10{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.txt-10 img{
+	width: 15%;
+	height: 15%;
+	float: left;
+	margin: auto;
+	margin-left: 0.2rem;
+	margin-right: 1.5rem;
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+	border-radius: 1rem;
+}
+
+.txt-11 h2{
+	text-align: left;
+	margin-bottom: 0.4rem;
+}
+.txt-11{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-12{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+.txt-12 img{
+	width: 13%;
+	height: 13%;
+	float: right;
+	margin: auto;
+	margin-left: 1rem;
+	margin-right: 2rem;
+	border-radius: 1rem;
+}
+
+.txt-13{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-14{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-15{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+.txt-15 img{
+	width: 18%;
+	height: 18%;
+	float: left;
+	margin: auto;
+	margin-left: 0.2rem;
+	margin-right: 0.8rem;
+	margin-top: 0.7rem;
+	margin-bottom: 0.3rem;
+	border-radius: 1rem;
+}
+
+.txt-16{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-17{
+	margin-top: 30px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+.txt-18{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+    font-weight: lighter;
+}
+
+
+.txt-19{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+.txt-19 img{
+	width: 13%;
+	height: 13%;
+	float: right;
+	margin: auto;
+	margin-left: 0.8rem;
+	margin-right: 0.2rem;
+	margin-top: 0.7rem;
+	margin-bottom: 1rem;
+	border-radius: 1rem;
+}
+
+.txt-20{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+}
+
+
+
+.txt-21{
+	margin-top: 19px;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	text-align: center;
+	font-weight: lighter;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
