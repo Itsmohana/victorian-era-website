@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=B08D57&center=true&vCenter=true&width=700&lines=Victorian+Era+Website;Educational+Multi-Page+Project;Built+with+HTML+%26+CSS">
+</p>
 <h1 align="center">👑 Victorian Era Website</h1>
 
 <p align="center">
