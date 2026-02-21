@@ -1,33 +1,79 @@
-# Victorian Era Website
+# 👑 Victorian Era Website
 
-An educational multi-page website inspired by the Victorian era, built with **HTML** and **CSS**.  
-Includes sections like Family, Era, Painting, Literature, Contact, and a simple **Shop** page.
+![HTML](https://img.shields.io/badge/HTML-75%25-orange)
+![CSS](https://img.shields.io/badge/CSS-25%25-blue)
+![Status](https://img.shields.io/badge/Status-Live-success)
 
-## Preview
-🔗 Live Demo: (Add your GitHub Pages link here)
+An educational multi-page website inspired by the Victorian Era, built using **HTML5** and **CSS3**.  
+The project includes historical content pages along with a simple styled shop interface.
 
-## Pages
-- Home (index.html)
-- Family
-- Era
-- Painting
-- Literature
-- Contact
-- Shop
+---
 
-## Features
-- Multi-page navigation
-- Clean UI with Victorian-inspired styling
+## 🌍 Live Demo
+🔗 https://itsmohana.github.io/victorian-era-website/
+
+---
+
+## 📸 Preview
+
+### 🏛 Home Page
+![Home Screenshot](image/home-preview.png)
+
+### 🛍 Shop Page
+![Shop Screenshot](image/shop-preview.png)
+
+---
+
+## 📂 Project Structure
+victorian-era-website/
+│
+├── css/
+│ ├── style.css
+│ └── ...
+│
+├── image/
+│ ├── hero.jpg
+│ ├── products/
+│ └── ...
+│
+├── index.html
+├── family.html
+├── era.html
+├── painting.html
+├── literature.html
+├── contact.html
+├── shop.html
+└── README.md
+
+
+---
+
+## ✨ Features
+
+- Multi-page layout
+- Victorian-inspired typography and color theme
+- Clean UI design
 - Responsive layout (basic)
-- Shop page UI (static)
+- Shop UI page
+- Organized folder structure
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
+
 - HTML5
 - CSS3
 
-## How to Run Locally
-1. Download or clone the repository
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   git clone https://github.com/Itsmohana/victorian-era-website.git
 2. Open `index.html` in your browser
 
 ---
-Made with ❤️ by mohana
+
+## 👩‍💻 Author
+
+Made with ❤️ by **mohana**
