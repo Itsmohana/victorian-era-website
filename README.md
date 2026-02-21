@@ -1,11 +1,15 @@
-# 👑 Victorian Era Website
+<h1 align="center">👑 Victorian Era Website</h1>
 
-![HTML](https://img.shields.io/badge/HTML-75%25-orange)
-![CSS](https://img.shields.io/badge/CSS-25%25-blue)
-![Status](https://img.shields.io/badge/Status-Live-success)
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-HTML5%20%26%20CSS3-8A5C2E?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Project-Type%20Educational%20Website-4B2E2E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
+</p>
 
-An educational multi-page website inspired by the Victorian Era, built using **HTML5** and **CSS3**.  
-The project includes historical content pages along with a simple styled shop interface.
+<p align="center">
+  A multi-page educational website inspired by the Victorian Era, 
+  designed with a historical aesthetic and clean modern layout.
+</p>
 
 ---
 
