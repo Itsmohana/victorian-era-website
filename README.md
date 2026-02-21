@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=3000&pause=1000&color=8A5C2E&center=true&vCenter=true&width=800&lines=Victorian+Era+Website;A+Journey+Through+19th+Century+Britain;Designed+with+HTML+and+CSS">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Victorian%20Gold-B08D57?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Design-Historical%20Aesthetic-4B2E2E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-HTML5%20%26%20CSS3-8A5C2E?style=for-the-badge&logo=html5&logoColor=white">
